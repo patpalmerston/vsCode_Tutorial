@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/patpalmerston/vsCode_Tutorial/issues"
   },
-  "homepage": "https://github.com/patpalmerston/vsCode_Tutorial#readme"
+  "homepage": "https://github.com/patpalmerston/vsCode_Tutorial#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
