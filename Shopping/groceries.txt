@@ -9,6 +9,6 @@
 menu for Pat:
   - chips
   - all things bad
-  - other stuff
+  - other stuff and other stuff
   - some more things
   - for another commit
